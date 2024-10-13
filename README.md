@@ -1,0 +1,1 @@
+Scala application which connects to PostgreSQL database and sorts books based on author, date published and author's birthdays. I built this application to get experience with functions and lists as well as docker containers interracting.
